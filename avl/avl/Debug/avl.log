@@ -1,3 +1,5 @@
-﻿  pch.cpp
-  avl.cpp
-  avl.vcxproj -> C:\Users\som\source\repos\avl\Debug\avl.exe
+﻿  avl.cpp
+c:\users\som\documents\github\ds\avl\avl\avl.cpp(131): warning C4101: 'k': unreferenced local variable
+c:\users\som\documents\github\ds\avl\avl\avl.cpp(131): warning C4101: 'l': unreferenced local variable
+c:\users\som\documents\github\ds\avl\avl\avl.cpp(41): warning C4715: 'search': not all control paths return a value
+  avl.vcxproj -> C:\Users\som\Documents\github\ds\avl\Debug\avl.exe
